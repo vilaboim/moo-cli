@@ -2,6 +2,7 @@
   "name": "@vilaboim/moo-cli",
   "version": "0.6.1",
   "description": "A MOOvelous CLI",
+  "private": true,
   "main": "dist/index.js",
   "bin": {
     "moo-cli": "dist/index.js",
