@@ -2,7 +2,6 @@
 
 olar
 oi
-hi
 
 A MOOvelous CLI.
 
