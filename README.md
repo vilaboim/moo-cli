@@ -1,5 +1,7 @@
 # moo-cli
 
+olar
+
 A MOOvelous CLI.
 
 Its purpose is to standardize creation of new projects, components and resources by using solid patterns and proxying other CLIs with preset configs.
