@@ -1,7 +1,6 @@
 # moo-cli
 
 olar
-oi
 
 A MOOvelous CLI.
 
